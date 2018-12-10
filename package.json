@@ -60,6 +60,6 @@
   },
   "dependencies": {
     "prop-types": "^15.5.10",
-    "react-native-vertical-view-pager": "^0.1.1"
+    "react-native-vertical-view-pager": "git+https://github.com/gabrieletondi/react_native_vertical_view_pager.git"
   }
 }
