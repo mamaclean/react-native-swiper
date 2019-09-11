@@ -1582,9 +1582,9 @@ pseudomap@^1.0.2:
   resolved "https://registry.yarnpkg.com/pseudomap/-/pseudomap-1.0.2.tgz#f052a28da70e618917ef0a8ac34c1ae5a68286b3"
   integrity sha1-8FKijacOYYkX7wqKw0wa5aaChrM=
 
-"react-native-vertical-view-pager@git+https://github.com/gabrieletondi/react_native_vertical_view_pager.git":
+"react-native-vertical-view-pager@git+https://github.com/mamaclean/react_native_vertical_view_pager.git":
   version "0.1.1"
-  resolved "git+https://github.com/gabrieletondi/react_native_vertical_view_pager.git#0e0b1851b264ac20e58878c285962fdbd1c52d1e"
+  resolved "git+https://github.com/mamaclean/react_native_vertical_view_pager.git#0e0b1851b264ac20e58878c285962fdbd1c52d1e"
 
 read-pkg-up@^2.0.0:
   version "2.0.0"
